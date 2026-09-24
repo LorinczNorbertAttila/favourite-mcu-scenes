@@ -45,15 +45,6 @@ npm run dev
 
 Open the local URL shown in the terminal, usually `http://localhost:5173`.
 
-## Available scripts
-
-```bash
-npm run dev      # Start the development server
-npm run build    # Create a production build
-npm run preview  # Preview the production build
-npm run lint     # Run ESLint
-```
-
 ## Project structure
 
 ```text
@@ -70,7 +61,7 @@ public/
 ```
 ## Preview
 
-<video src="public/preview.mp4" autoplay loop muted playsinline width="800"></video>
+https://github.com/user-attachments/assets/471f625c-8266-4ecb-a913-6d5218761c11
 
 ## Disclaimer
 
